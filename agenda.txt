@@ -1,0 +1,23 @@
+Agenda/Notes - Mar 16, 2020
+
+1) Brief Intro
+	-Industry/Background
+	-Why you took this course
+	-What have you liked/struggled/general thoughts about the course
+
+2) Schedules/Deadlines
+	-When are people free?
+	-How do we want/should split up the work in the project e.g. like the roles defined?
+	-Proposed schedule:
+		-Tues/Thurs 6-9pm EST majority of planning/coding/etc.
+		-Sat midnight soft deadline for assigned tasks
+		-Sun tbd a brief runthrough of entire project/segment
+
+3) Project Ideas
+	
+	-Calvin's Idea: Game app prediction
+		-Use app dataset on kaggle on the following links:
+			-https://www.kaggle.com/kboghe/android-apps-metadata
+			-https://www.kaggle.com/lava18/google-play-store-apps
+			-https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games **we can use this for first segment
+		-Use app data to predict rating of game based on various metrics
