@@ -1,22 +1,25 @@
 Agenda/Notes - Mar 16, 2020
 
-1) Brief Intro
-	-Industry/Background
-	-Why you took this course
-	-What have you liked/struggled/general thoughts about the course
 
-2) Schedules/Deadlines
+1) Schedules/Deadlines
 	-When are people free?
-	-How do we want/should split up the work in the project e.g. like the roles defined?
+		Artem - Mainly weekends/ Tues 7-9pm /Thurs 7-10pm EST majority of planning/coding/etc
+		Alex - Flexible
+		Calvin - Flexible		
+		
+	-How do we want/should split up the work in the project e.g. like the roles defined? 
+		We will work collaboratively for now. Calvin will do some pre-planning ahead of meeting.
+	
 	-Proposed schedule:
-		-Tues/Thurs 6-9pm EST majority of planning/coding/etc.
+		-Tues/Thurs 7-9pm EST majority of planning/coding/etc.
 		-Thurs-Sat finish up uncompleted parts in the two day sessions
 		-Sat midnight soft deadline for assigned tasks
 		-Sun TBD a brief runthrough of entire project/segment
-
-3) Project Ideas
 	
-	-Calvin's Idea: Game app prediction
+
+2) Project Idea
+	
+	-Idea: Game app prediction
 		-Use app dataset on kaggle on the following links:
 			-https://www.kaggle.com/kboghe/android-apps-metadata
 			-https://www.kaggle.com/lava18/google-play-store-apps
@@ -28,27 +31,32 @@ Agenda/Notes - Mar 16, 2020
 			-create relationships
 			-store in sqlite
 
-4) Requirements for Segment 1 / Role Assignment
-
+3) Requirements for Segment 1
+	
 	-GitHub setup
 		-Create branches
 			-data preprocessing
 			-analysis
 	-Preprocessing
-		-select sample data
+		-select sample data from the app games csv
 		-basic cleaning steps to ensure we can run machine learning
 	-Machine Learning
-		-choose machine learning method and return something
+		-choose machine learning e.g. regression analysis, to return value for our research question
 
-5) Brainstorming
+4) Brainstorming - TBC 3/18/2021
 
 	-Observations on given data
+	-What are we trying to predict?
 	-Are we able to predict our question? If not, how else should we go about this?
 
-6) Pseudo Coding
+5) Pseudo Coding - TBC 3/18/2021
+
 	-Map out the coding required to complete our segment
 
-7) Coding
+6) Coding - TBC 3/18/2021
+
 	-Fill out code required to make the prototype
 
-8) Questions for Dylan
+7) Questions for Dylan - TBC 3/18/2021
+
+	-We are planning to work collaboratively for now, how do we show our work on GitHub to show we've equally contributed?
