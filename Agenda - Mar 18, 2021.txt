@@ -24,6 +24,13 @@ Agenda/Notes - Mar 18, 2020
 6) Questions for Dylan
 	-How to show contribution from everyone if we do this collaboratively?
 
+GitHub Team:
+
+	-Calvin: calvinwkchu
+	-Artem: noble190
+	-Alex: alexk9220
+	-Dylan: DNason1999
+
 Reference for requirements in Segment 1:
 	
 	-Presentation:
