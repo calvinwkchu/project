@@ -1,7 +1,10 @@
 Agenda/Notes - Mar 18, 2020
 
 1) Brainstorming/Data Exploration/Presentation
-	-Phase 1: https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games
+	-Decide which db to use/start with:
+			-https://www.kaggle.com/kboghe/android-apps-metadata
+			-https://www.kaggle.com/lava18/google-play-store-apps
+			-https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games
 	-Questions to explore:
 		-Observations on given data
 		-What are we trying to predict?
